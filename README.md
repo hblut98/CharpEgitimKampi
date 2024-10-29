@@ -1,6 +1,6 @@
 # **💻 C# EĞİTİM KAMPI**
 
-**💎 Proje 1 : Merhaba Dünya ve C#**
+## **💎 Proje 1 : Merhaba Dünya ve C#**
 
 **💎 Proje 2 : Değişkenler**
 
