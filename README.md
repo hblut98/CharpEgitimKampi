@@ -1,1 +1,1 @@
-#💻 CharpEgitimKampi
+#💻 C# EĞİTİM KAMPI
