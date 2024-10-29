@@ -1,0 +1,7 @@
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\obj\Debug\03_MakindDecision.csproj.AssemblyReference.cache
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\obj\Debug\03_MakindDecision.csproj.CoreCompileInputs.cache
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\bin\Debug\03_MakindDecision.exe.config
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\bin\Debug\03_MakindDecision.exe
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\bin\Debug\03_MakindDecision.pdb
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\obj\Debug\03_MakindDecision.exe
+C:\Users\hblut\source\repos\CharpEğitimKampii\03_MakindDecision\obj\Debug\03_MakindDecision.pdb
