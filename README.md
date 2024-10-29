@@ -1,4 +1,4 @@
-#**💻 C# EĞİTİM KAMPI**#
+# **💻 C# EĞİTİM KAMPI**
 
 **💎 Proje 1 : Merhaba Dünya ve C#**
 
